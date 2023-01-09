@@ -9,7 +9,7 @@
   Try at your own risk.. I will be not responsible is something happens to your device.
   
 ## Downloads:
-  ### Version 1.0 Supports HID Support, Fast Charging, Better Battery Optimization, More USB WLAN Adapters
+  ### Version 1.0: HID Support, Fast Charging, Better Battery Optimization, More USB WLAN Adapters
   
   <b> LINK: [FLASHABLE ZIP Ver-1.0](https://mega.nz/file/nzozzZKQ#m0iHMfjItt8ZFWQvCYf8QXJhILBM_FSloBRjEo6xD7M) For Nethunter Installer, TWRP. <br>
   

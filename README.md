@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-1.5-blue.svg?cacheSeconds=2592000)
 [![Twitter: \_\_DECODER\_\_](https://img.shields.io/twitter/follow/\_\_DECODER\_\_.svg?style=social)](https://twitter.com/\_\_DECODER\_\_)
 
 # ViP3R-KERNEL-Hammerhead👋
@@ -9,9 +9,9 @@
   Try at your own risk.. I will be not responsible is something happens to your device.
   
 ## Downloads:
-  ### Version 1.0: HID Support, Fast Charging, Better Battery Optimization, More USB WLAN Adapters
+  ### Version 1.5: HID Support, Fast Charging, Better Battery Optimization, More USB WLAN Adapters
   
-  <b> LINK: [FLASHABLE ZIP Ver-1.0](https://mega.nz/file/nzozzZKQ#m0iHMfjItt8ZFWQvCYf8QXJhILBM_FSloBRjEo6xD7M) For Nethunter Installer, TWRP. <br>
+  <b> LINK: [FLASHABLE ZIP Ver-1.5](https://mega.nz/file/q64CQCIA#EQPOey7s1l2xoHj0z_j5Y_Cmj5RU5yMICHDVzc1esOM) For Nethunter Installer, TWRP. <br>
   
 ## Source Code:
   LINK: [KERNEL-SOURCE-CODE](

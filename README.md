@@ -11,11 +11,11 @@
 ## Downloads:
   ### Version 1.0 Supports HID Support, Fast Charging, Better Battery Optimization, More USB WLAN Adapters
   
-  <b> LINK: [FLASHABLE ZIP Ver-1.0](https://mega.nz/file/XvJEGLTT#0-k--3MQOYRre6mg9VRzxSZg9xYJyqROmRfWLLElhwI) For Nethunter Installer, TWRP. <br>
+  <b> LINK: [FLASHABLE ZIP Ver-1.0](https://mega.nz/file/nzozzZKQ#m0iHMfjItt8ZFWQvCYf8QXJhILBM_FSloBRjEo6xD7M) For Nethunter Installer, TWRP. <br>
   
 ## Source Code:
   LINK: [KERNEL-SOURCE-CODE](
-  https://github.com/MIDNIGHT-DEVELOPER/Kernel_Source_N_dior.git)
+  https://github.com/CrazyGamerGR/CrazySuperKernel-CM14.1-hammerhead.git)
   
 ## Version Information
   Status: Stable

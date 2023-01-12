@@ -1,5 +1,5 @@
-![Version Nougat](https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000)
-![Version Marshmallow](https://img.shields.io/badge/version-1.5-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-1.5-blue.svg?cacheSeconds=2592000) (Nougat)
+![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000) (Marshmallow)
 [![Twitter: \_\_DECODER\_\_](https://img.shields.io/twitter/follow/\_\_DECODER\_\_.svg?style=social)](https://twitter.com/\_\_DECODER\_\_)
 
 # ViP3R-KERNEL-Hammerhead👋

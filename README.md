@@ -28,7 +28,7 @@
   Status: Stable
 
 ## Kernel Special Features: 
-  Based on CM-14.1 , linux.org 3.4.x based & LOS14.1 official sources with selectively picked mods/patches
+  Based on CM-14.1 , linux.org 3.4.x based & LOS14.1 official sources with selectively picked mods/patches <br>
   Based on CM-13.1 , linus.org 3.4.x based 
 
 ## Updates
